@@ -5,7 +5,7 @@ Lucy Wangeci Karimi
 A web application which provides a platform  for the pizza buyer to interact with the seller where he/she is able to order pizzas according to their preference and quantity.The customer is als give an option to chose wheteher they want the pizzas to be delivered or not.
 ## Setup/Installation Requirements
 * To run my page on your browser,
-* Git clone https://luciahroyalty101.github.io/Royalty-Pizza/ to your terminal.
+* Git clone https://github.com/L-Karimi/Royalty-Pizza.git to your terminal.
 * Open Documents and open Portfolio with Vs code
 * Render the page to your browser by live server
 ## Known Bugs
@@ -17,8 +17,7 @@ A web application which provides a platform  for the pizza buyer to interact wit
 * javasript
 * jquery
 ## Support and contact details
-* luciahkei101@gmail.com
-* twitter@luciahkei101
-* fb@Luciah Karimi
+* karimiluccy@gmail.com
+* twitter@LuciahKarimi
 ### License
  licensed under [MIT license](LICENSE)
